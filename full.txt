@@ -371,3 +371,4 @@ mail.t-online.hu|25|verlo@t-online.hu|9174Dunaszeg
 smtp.terra.com.br|587|beth.spcr@terra.com.br|elisabeth
 smtp.terra.com.br|587|vican02@terra.com.br|positivo48
 smtp.terra.com.br|587|vandahering@terra.com.br|Andre11A
+smtp.terra.com.br|587|fonsecanair@terra.com.br|632617nair
