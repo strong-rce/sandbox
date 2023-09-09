@@ -337,3 +337,4 @@ mail.t-online.hu|25|kperity@t-online.hu|Kriszti7
 maderasdelvalle.com|587|h.amador@maderasdelvalle.com|3Vt2oz1&
 smtp.blomand.net|587|jly740@blomand.net|Maelybeth1
 smtp.studiomondi.com|587|antonella.colombo@studiomondi.com|Antonella123
+smtp.poczta.onet.pl|587|darifrys1@poczta.onet.pl|Bruno2001!
