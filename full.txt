@@ -307,3 +307,4 @@ mail.t-online.hu|25|fabetopasystem@t-online.hu|Fabetopa04
 smtp.suddenlink.net|587|kayslx@suddenlink.net|Dad021426
 mail.haiduong.gov.vn|587|doanxuanthao@haiduong.gov.vn|Haiduong@123
 smtp.msbco.com|587|hmd@msbco.com|MSB$HDdrS13#
+smtp.terra.com.br|587|ines.depaula@terra.com.br|utopia
