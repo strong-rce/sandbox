@@ -47,3 +47,4 @@ smtp.vox.co.za|587|leopain@vox.co.za|2RJUIah5a!
 smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w61121w123
 smtp.suddenlink.net|587|apbennett@suddenlink.net|bennett1
 mail.t-online.hu|25|fiskalis37@t-online.hu|Sebi1967
+smtp.manquehue.net|25|cristiancummins@manquehue.net|2325356
