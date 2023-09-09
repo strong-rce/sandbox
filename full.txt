@@ -432,3 +432,4 @@ smtp.online.no|587|solavtho@online.no|neyo544
 smtp.zoominternet.net|587|billbentz@zoominternet.net|Muchshot.123
 mail.vip.hr|587|anaj5@vip.hr|lav1000
 mail.hot.ee|587|mies6@hot.ee|A1sidrun
+smtp.terra.com.br|587|irmaines.oliveira@terra.com.br|b2q5v2
