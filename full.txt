@@ -349,3 +349,4 @@ hyperlinksa.com|587|ahmed@hyperlinksa.com|Master1234
 smtp.orange.sn|587|maxem@orange.sn|Quai2021
 smtp.suddenlink.net|587|alcohie@suddenlink.net|Death#28
 hospitalmaria.org|587|talentohumano@hospitalmaria.org|Talento2016
+smtp.lantic.net|587|wolram@lantic.net|marlow866!!1
