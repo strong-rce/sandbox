@@ -455,3 +455,4 @@ mzbetar.co.mz|587|marcos.almeida@mzbetar.co.mz|Maputo2022#
 smtp.suddenlink.net|587|alvaradobuilders@suddenlink.net|052015Selah
 smtp.ntlworld.com|587|alex.meehan1@ntlworld.com|Meehan71
 smtp.goshsolutions.com|587|marcos.rivera@goshsolutions.com|Mr2020@2020
+villageptnc.com|587|contact@villageptnc.com|Core0727!
