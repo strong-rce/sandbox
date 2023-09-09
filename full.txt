@@ -142,3 +142,4 @@ mail.t-email.hu|25|siberia@t-email.hu|Bogumil1
 smtp.cox.net|587|nanzig@cox.net|Mineola46
 smtp.cebridge.net|587|jeffj43@cebridge.net|scooby
 smtp.manquehue.net|25|gustavor@manquehue.net|2000
+ripeconcepts.com|587|edbrian.lazarraga@ripeconcepts.com|ripe1234
