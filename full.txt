@@ -224,3 +224,4 @@ helmelectricinc.com|587|dmartinson@helmelectricinc.com|Star0421+
 emms.com.my|587|selvan@emms.com.my|Emms@9168
 phatjackfarms.com|587|info@phatjackfarms.com|Gonzalez1977!
 smtp.cebridge.net|587|sgolgan@cebridge.net|sgolgan1
+smtp.blackbirchhomes.com|587|jill@blackbirchhomes.com|Bennett04#
