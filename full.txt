@@ -242,3 +242,4 @@ smtp.cebridge.net|587|lcpappa@cebridge.net|lonnie01
 double8events.com|587|delhi@double8events.com|delhi@1234
 smtp.suddenlink.net|587|jsglasgow62@suddenlink.net|Twitterbug62
 smtp.suddenlink.net|587|hatter60@suddenlink.net|cottonhead75
+smtp.manquehue.net|25|colocarey@manquehue.net|colomba
