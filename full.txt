@@ -346,3 +346,4 @@ techsprinters.com|587|suman@techsprinters.com|aTuBExvwpGCcPHXKjpzN
 smtp.suddenlink.net|587|mikecornelius@suddenlink.net|W2i2n@1776
 mail.t-email.hu|25|sosix@t-email.hu|Sosisosi75
 hyperlinksa.com|587|ahmed@hyperlinksa.com|Master1234
+smtp.orange.sn|587|maxem@orange.sn|Quai2021
