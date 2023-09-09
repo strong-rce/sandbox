@@ -49,3 +49,4 @@ smtp.suddenlink.net|587|apbennett@suddenlink.net|bennett1
 mail.t-online.hu|25|fiskalis37@t-online.hu|Sebi1967
 smtp.manquehue.net|25|cristiancummins@manquehue.net|2325356
 mail.t-email.hu|25|kerteszbubu@t-email.hu|MaCi13abc
+smtp.cebridge.net|587|slee18@cebridge.net|lee940
