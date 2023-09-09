@@ -67,3 +67,4 @@ kristinshepherd.ca|587|kristin@kristinshepherd.ca|patrickhall1!
 smtp.panamweb.com|25|sales@panamweb.com|PU_sales_7321_MX
 mail.t-online.hu|25|serespal@t-online.hu|Start500
 smtp.istitutocopernico.edu.it|587|salvo.chiofalo@istitutocopernico.edu.it|10456377
+mail.t-online.hu|25|balazssas@t-online.hu|Picurka76
