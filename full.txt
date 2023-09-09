@@ -228,3 +228,4 @@ smtp.blackbirchhomes.com|587|jill@blackbirchhomes.com|Bennett04#
 smtp.ptialaska.net|587|fsdrd@ptialaska.net|August967
 smtp.cebridge.net|587|sbreedlove@cebridge.net|jakedog1
 smtp.cebridge.net|587|voigtlander@cebridge.net|adv89562
+smtp.suddenlink.net|587|cnmwar4391@suddenlink.net|chesterwarren1
