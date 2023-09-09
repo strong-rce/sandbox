@@ -313,3 +313,4 @@ mail.t-online.hu|25|simon55@t-online.hu|Genius0
 smtp.terra.com.br|587|decopaula@terra.com.br|g5y4j6d5
 pakpackages.com|587|bilal@pakpackages.com|2Pakp@)(*
 smtp.lantic.net|587|wolram@lantic.net|marlow866!!!
+mail.vip.hr|587|matador_7@vip.hr|2405stik
