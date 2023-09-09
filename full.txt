@@ -464,3 +464,4 @@ smtp.terra.com.br|587|roseli_fran@terra.com.br|roseli03778
 smtp.terra.com.br|587|operillo@terra.com.br|odpe200522232@
 smtp.zenkormexico.com|587|irma.rodriguez@zenkormexico.com|Irma42019.
 mail.t-online.hu|25|dekayiren@t-online.hu|alma
+smtp.terra.com.br|587|andrenefro@terra.com.br|Kidney1966
