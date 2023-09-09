@@ -492,3 +492,4 @@ albrashi-center.com|587|alqadi@albrashi-center.com|123456
 smtp.leoffertediida.it|587|ordini@leoffertediida.it|IdaMax12345!
 smtp.bahiacard.com.br|587|jairo@bahiacard.com.br|#Bahiacard2021
 besthomesaustralia.com.au|587|Info@besthomesaustralia.com.au|A$PjB05k.=02
+smtp.mail.de|587|optimal915@mail.de|519lamit
