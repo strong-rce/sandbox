@@ -7,3 +7,4 @@ smtp.suddenlink.net|587|cdamron@suddenlink.net|Jayden01
 mail.t-online.hu|25|polgar.jozsef@t-online.hu|tarkinca
 mail.t-online.hu|25|tinfo95@t-online.hu|Tinfo95
 mail.nc.rr.com|587|lnowicki1@nc.rr.com|18guavafruit
+mail.t-email.hu|25|amadin@t-email.hu|Angela1Tom
