@@ -332,3 +332,4 @@ smtp.absamail.co.za|587|mvs.acc@absamail.co.za|mvsacc
 evelynojeda.com|587|evelyn@evelynojeda.com|namastenamaste123
 mail.vip.hr|587|igorgoc32@vip.hr|nogomet1
 smtp.vox.co.za|587|leopain@vox.co.za|2RJUIah5a!
+smtp.vox.co.za|587|leopain@vox.co.za|2RJUIah5!1
