@@ -215,3 +215,4 @@ smtp.telefonica.net|25|cristinamaca@telefonica.net|Cris4015
 smtp.cebridge.net|587|tnabailey@cebridge.net|rt1766
 smtp.telefonica.net|25|arqsevilla@telefonica.net|Marsan2410
 smtp.the-beach.net|587|arminda@the-beach.net|arminda9811231234562
+smtp.cebridge.net|587|bluevelvet@cebridge.net|shady375
