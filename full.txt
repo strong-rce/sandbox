@@ -200,3 +200,4 @@ smtp.terra.com.br|587|jdcomputer@terra.com.br|0507091523
 smtp.embarqmail.com|587|anderson.carpet@embarqmail.com|fishin4Fun2*
 smtp.skinsecretsmedspa.com|587|greta@skinsecretsmedspa.com|Winter09
 smtp.cebridge.net|587|kev29@cebridge.net|100576
+smtp.cebridge.net|587|terrebraun@cebridge.net|katy7197
