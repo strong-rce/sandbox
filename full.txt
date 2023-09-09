@@ -130,3 +130,4 @@ wewantjustice.today|587|jawad@wewantjustice.today|Justice1996$$##
 smtp.cebridge.net|587|vpate1812@cebridge.net|1812toby
 mail.t-online.hu|25|akossalamon@t-online.hu|Domi2005
 smtp.cebridge.net|587|rachelm@cebridge.net|2234rm
+mail.ecu.edu.eg|587|292000402@ecu.edu.eg|Nmhu228729
