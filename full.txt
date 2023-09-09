@@ -495,3 +495,4 @@ besthomesaustralia.com.au|587|Info@besthomesaustralia.com.au|A$PjB05k.=02
 smtp.mail.de|587|optimal915@mail.de|519lamit
 ilandas.lt|587|vadyba1@ilandas.lt|odblaks934hbz
 smtp.zoominternet.net|587|critchlow@zoominternet.net|Nevin9038*
+smtp.terra.com.br|587|vicunha@terra.com.br|vicunha2020
