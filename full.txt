@@ -112,3 +112,4 @@ smtp.cebridge.net|587|pattybarnes@cebridge.net|121798
 smtp.vox.co.za|587|leopain@vox.co.za|2RJUIah5!!
 besharatdev.ir|587|info@besharatdev.ir|OqiztLy9cx
 smtp.cebridge.net|587|dnacarp@cebridge.net|emma01
+smtp.cebridge.net|587|airshots@cebridge.net|n8304b
