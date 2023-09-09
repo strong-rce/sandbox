@@ -212,3 +212,4 @@ smtp.email.cz|587|janina.forejtkova@email.cz|eggnoise
 smtp.email.cz|587|martinakrzakova@email.cz|skalimo
 smtp.email.cz|587|lightbrand@email.cz|ascendant
 smtp.telefonica.net|25|cristinamaca@telefonica.net|Cris4015
+smtp.cebridge.net|587|tnabailey@cebridge.net|rt1766
