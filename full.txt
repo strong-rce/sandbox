@@ -485,3 +485,4 @@ smtp.seznam.cz|587|ladikpo11223344@seznam.cz|lada.popov
 xurpas.com|587|kim.barona@xurpas.com|sohnse&#2d!
 smtp.seznam.cz|587|eliskaaa2010@seznam.cz|Traktor2
 mail.flowpodcast.com.br|587|ecom@flowpodcast.com.br|FlowFod@420
+smtp.cebridge.net|587|jewett@cebridge.net|laddie
