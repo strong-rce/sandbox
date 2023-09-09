@@ -12,3 +12,4 @@ mail.t-online.hu|25|karaszinehg@t-online.hu|GKbb12
 mail.t-online.hu|25|szolnok03@t-online.hu|vadalma99
 ripeconcepts.com|587|april.cuadra@ripeconcepts.com|ripe1234
 mail.t-online.hu|25|ufarkas@t-online.hu|Medvegy1
+mail.t-online.hu|25|jozsef.kocsis@t-online.hu|Kocjoz63
