@@ -440,3 +440,4 @@ smtp.istitutocopernico.edu.it|587|salvo.chiofalo@istitutocopernico.edu.it|104563
 smtp.manquehue.net|25|josesanguineti@manquehue.net|sangui
 groenhove.com|587|hotel@groenhove.com|juva,123
 smtp.suddenlink.net|587|mikeallen5@suddenlink.net|Ma2040ma$
+smtp.cebridge.net|587|karenoltman@cebridge.net|9363505Ka#
