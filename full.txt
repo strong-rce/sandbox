@@ -304,3 +304,4 @@ multisoft-pmp.com|587|gtm63@multisoft-pmp.com|Online@1234
 smtp.cebridge.net|587|mrsrattletrapclay@cebridge.net|cclay
 smtp.absamail.co.za|587|irals@absamail.co.za|Dominiq#Dominiq!a-123
 mail.t-online.hu|25|fabetopasystem@t-online.hu|Fabetopa04
+smtp.suddenlink.net|587|kayslx@suddenlink.net|Dad021426
