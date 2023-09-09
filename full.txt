@@ -309,3 +309,4 @@ mail.haiduong.gov.vn|587|doanxuanthao@haiduong.gov.vn|Haiduong@123
 smtp.msbco.com|587|hmd@msbco.com|MSB$HDdrS13#
 smtp.terra.com.br|587|ines.depaula@terra.com.br|utopia
 smtp.cebridge.net|587|milwaukee@cebridge.net|Boomer11
+mail.t-online.hu|25|simon55@t-online.hu|Genius0
