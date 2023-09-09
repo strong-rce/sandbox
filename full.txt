@@ -19,3 +19,4 @@ mail.t-online.hu|25|petasz@t-online.hu|uvegtigris3
 smtp.manquehue.net|25|decorline@manquehue.net|123456
 mail.vip.hr|587|cudni@vip.hr|Kikimarina0609
 smtp.manquehue.net|25|cmaritanof@manquehue.net|Claudia1
+smtp.absamail.co.za|587|irals@absamail.co.za|Dominiq#Dominiq!a
