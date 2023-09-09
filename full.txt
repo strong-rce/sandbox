@@ -373,3 +373,4 @@ smtp.terra.com.br|587|vican02@terra.com.br|positivo48
 smtp.terra.com.br|587|vandahering@terra.com.br|Andre11A
 smtp.terra.com.br|587|fonsecanair@terra.com.br|632617nair
 goavana.com|587|augustin-akata@goavana.com|ZHMK9RdWb
+edc.mn|587|purevsuren.g@edc.mn|Pur88056866
