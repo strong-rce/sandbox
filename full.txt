@@ -369,3 +369,4 @@ smtp.avengersdispatchservices.com|587|sales@avengersdispatchservices.com|Sales@a
 smtp.lantic.net|587|debtresolve.legal@lantic.net|kalvaro123kalvaro12352
 mail.t-online.hu|25|verlo@t-online.hu|9174Dunaszeg
 smtp.terra.com.br|587|beth.spcr@terra.com.br|elisabeth
+smtp.terra.com.br|587|vican02@terra.com.br|positivo48
