@@ -156,3 +156,4 @@ smtp.cebridge.net|587|rham@cebridge.net|master12
 smtp.alice-dsl.net|587|dorisbrausch@alice-dsl.net|Wildpferd.62
 smtp.tri-o.rs|587|nebojsa.orlovic@tri-o.rs|nexi06040303
 mail.t-online.hu|25|ifjvorosmiklos@t-online.hu|doni2004
+smtp.cebridge.net|587|jamesbernard@cebridge.net|baseball1
