@@ -183,3 +183,4 @@ smtp.suddenlink.net|587|ethanm99@suddenlink.net|ethan1
 smtp.suddenlink.net|587|addison@suddenlink.net|Addison1
 smtp.cebridge.net|587|montieyoung@cebridge.net|cynthia
 mail.t-online.hu|25|eaniko55@t-online.hu|Mazsi55
+smtp.cebridge.net|587|roeserfamily@cebridge.net|payson
