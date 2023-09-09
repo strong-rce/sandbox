@@ -248,3 +248,4 @@ smtp.terra.com.br|587|uliarqui@terra.com.br|arqui1
 smtp.terra.com.br|587|fwelias@terra.com.br|demo2003*
 smtp.suddenlink.net|587|michelle_lopez2427@suddenlink.net|Duhon1978
 smtp.suddenlink.net|587|havasu@suddenlink.net|1967Baja
+smtp.manquehue.net|25|jorge_miranda@manquehue.net|oxford2615
