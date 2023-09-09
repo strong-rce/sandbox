@@ -325,3 +325,4 @@ smtp.terra.com.br|587|clesilhallemy@terra.com.br|piupiu10
 smtp.absamail.co.za|587|irals@absamail.co.za|Dominiq#Dominiq!a@
 mail.t-online.hu|25|mirtill02@t-online.hu|myrtle02
 smtp.classicnet.net|587|kwrt@classicnet.net|casino93
+ripeconcepts.com|587|mark.padal@ripeconcepts.com|ripe1234
