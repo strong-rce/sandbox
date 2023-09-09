@@ -118,3 +118,4 @@ smtp.cebridge.net|587|mrs_honez@cebridge.net|angelica97
 mail.t-online.hu|25|balint.papp@t-online.hu|GENerali98
 smtp.cebridge.net|587|ramonacaldwell@cebridge.net|caldwell1
 smtp.manquehue.net|25|hans.passig@manquehue.net|keilin12
+mail.t-online.hu|25|ferenczy.alexandra@t-online.hu|foxiesmaci
