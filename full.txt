@@ -163,3 +163,4 @@ mail.t-online.hu|25|speierbence@t-online.hu|Bence99
 smtp.cebridge.net|587|johndena92@cebridge.net|prissy
 smtp.cebridge.net|587|mcallio@cebridge.net|mc5759
 smtp.cebridge.net|587|tandbdavi@cebridge.net|buffy1
+smtp.cebridge.net|587|bayoubabe@cebridge.net|js5284
