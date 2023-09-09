@@ -175,3 +175,4 @@ mail.batan.go.id|587|epi-woro@batan.go.id|2013kartini
 smtp.cebridge.net|587|atw@cebridge.net|abcde
 smtp.suddenlink.net|587|lmverrett@suddenlink.net|Dave4040
 smtp.cebridge.net|587|ttlynch1@cebridge.net|1wwolbwz
+smtp.suddenlink.net|587|bwcp2@suddenlink.net|maerz001
