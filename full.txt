@@ -73,3 +73,4 @@ smtp.alice-dsl.net|587|cleppelt@alice-dsl.net|nane0202
 smtp.lantic.net|587|debtresolve.legal@lantic.net|kalvaro1!!
 walsun.com.tw|587|josephchang@walsun.com.tw|Ewmkej47
 smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w6_11!!049
+smtp.hotkey.net.au|587|buloke@hotkey.net.au|plozza56
