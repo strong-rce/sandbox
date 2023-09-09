@@ -448,3 +448,4 @@ smtp.ilbellodellosport.it|587|redazione@ilbellodellosport.it|bellosport.it
 smtp.terra.com.br|587|reginaxtal@terra.com.br|jsc0812
 mail.t-online.hu|25|simonyif@t-online.hu|Emilia45
 mail.t-online.hu|25|fulopsandorne36@t-online.hu|MnugB3mD
+smtp.suddenlink.net|587|lhhenry@suddenlink.net|Purple$05
