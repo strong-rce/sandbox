@@ -114,3 +114,4 @@ besharatdev.ir|587|info@besharatdev.ir|OqiztLy9cx
 smtp.cebridge.net|587|dnacarp@cebridge.net|emma01
 smtp.cebridge.net|587|airshots@cebridge.net|n8304b
 smtp.manquehue.net|25|marialiciaguerra@manquehue.net|fatima
+smtp.cebridge.net|587|mrs_honez@cebridge.net|angelica97
