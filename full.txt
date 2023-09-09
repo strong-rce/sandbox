@@ -238,3 +238,4 @@ smtp.absamail.co.za|587|ptheron@absamail.co.za|wendy
 smtp.cebridge.net|587|jkieke@cebridge.net|291522jK
 smtp.suddenlink.net|587|bdhall@suddenlink.net|Searge111
 smtp.terra.com.br|587|osmaremirian@terra.com.br|micris
+smtp.cebridge.net|587|lcpappa@cebridge.net|lonnie01
