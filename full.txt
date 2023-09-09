@@ -416,3 +416,4 @@ smtp.terra.com.br|587|vleal@terra.com.br|fmsilva
 smtp.windstream.net|587|rhubbert@windstream.net|Nomore99
 smtp.mvcveiculos.com.br|587|fabiomacedo@mvcveiculos.com.br|Soufeliz1
 smtp.rambler.ru|587|lessian@rambler.ru|Shabalina1804
+smtp.terra.com.br|587|gmaga@terra.com.br|gloria10
