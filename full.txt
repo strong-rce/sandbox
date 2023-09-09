@@ -153,3 +153,4 @@ smtp.cebridge.net|587|cccoleman@cebridge.net|thomas02
 smtp.cebridge.net|587|rkwood@cebridge.net|Lksw1048
 smtp.suddenlink.net|587|grinningtiger@suddenlink.net|Star68
 smtp.cebridge.net|587|rham@cebridge.net|master12
+smtp.alice-dsl.net|587|dorisbrausch@alice-dsl.net|Wildpferd.62
