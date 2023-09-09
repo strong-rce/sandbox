@@ -360,3 +360,4 @@ smtp.defectpro.com|587|tomspangler@defectpro.com|Tom1234
 smtp.rambler.ru|587|faldaa@rambler.ru|Crfdaa2023
 geniusinternationalschool.com|587|mohamed.hesham9@geniusinternationalschool.com|12345678
 smtp.sagamorechurch.com|587|info@sagamorechurch.com|Sagamore2301!
+smtp.manquehue.net|25|jorge_miranda@manquehue.net|oxford2615
