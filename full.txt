@@ -61,3 +61,4 @@ mail.t-online.hu|25|drnemethmiklos@t-online.hu|NMiklos1950
 mail.t-email.hu|25|smithcsaba@t-email.hu|Area1951
 smtp.lantic.net|587|wolram@lantic.net|marlow866!!!
 mail.t-online.hu|25|stefi1em@t-online.hu|Vmpday12
+corsetargentina.com.ar|587|contacto@corsetargentina.com.ar|09Pamela09
