@@ -479,3 +479,4 @@ ad1gate.com|587|anugrah.022162@ad1gate.com|Motor#586
 mail.cidb.gov.my|587|azam@cidb.gov.my|bet1977
 smtp.rambler.ru|587|faldaa@rambler.ru|Crfdaa2023
 mail.hot.ee|587|marina167@hot.ee|B62c45e0
+smtp.gltsoggiornoandgreen.it|587|booking@gltsoggiornoandgreen.it|QRZzMSHjg=$5mMwf
