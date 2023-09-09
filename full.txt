@@ -251,3 +251,4 @@ smtp.suddenlink.net|587|havasu@suddenlink.net|1967Baja
 smtp.manquehue.net|25|jorge_miranda@manquehue.net|oxford2615
 ripeconcepts.com|587|may.sarno@ripeconcepts.com|ripe1234
 maff.gov.kh|587|casdp@maff.gov.kh|Smart@2018?
+smtp.cebridge.net|587|louisesud@cebridge.net|ellafay2
