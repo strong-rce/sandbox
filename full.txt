@@ -187,3 +187,4 @@ smtp.cebridge.net|587|roeserfamily@cebridge.net|payson
 mail.optonline.net|587|dcasey6@optonline.net|1125Twinsies1125
 smtp.ammaroptician.com|587|online@ammaroptician.com|app34443532
 mail.vip.hr|587|ozna4@vip.hr|partizan1
+smtp.manquehue.net|25|pazahe@manquehue.net|1801pzh
