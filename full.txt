@@ -259,3 +259,4 @@ smtp.cebridge.net|587|sasha@cebridge.net|ruthann
 smtp.cebridge.net|587|carol2@cebridge.net|jicadrsa
 smtp.cebridge.net|587|coalcat@cebridge.net|12happy34
 smtp.email.cz|587|sykorkyn.pajus@email.cz|pajus1
+smtp.cebridge.net|587|steve.dalton@cebridge.net|frodo00
