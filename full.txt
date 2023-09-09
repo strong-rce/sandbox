@@ -191,3 +191,4 @@ smtp.manquehue.net|25|pazahe@manquehue.net|1801pzh
 smtp.cebridge.net|587|duxrme@cebridge.net|snickers
 mail.t-online.hu|25|feketebusz@t-online.hu|Femax8000
 smtp.cebridge.net|587|nicholls@cebridge.net|p12173pln
+smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w61121w123
