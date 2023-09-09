@@ -392,3 +392,4 @@ smtp.itlav.com|587|test47@itlav.com|testtest
 phoenixp.pe|587|medicoocupacional@phoenixp.pe|Medico2020!
 smtp.manquehue.net|25|pabloromero@manquehue.net|636457
 hadammw.com|587|info@hadammw.com|!Welcome2020
+mail.t-online.hu|25|ildikokozma@t-online.hu|KI30kiki
