@@ -505,3 +505,4 @@ smtp.cebridge.net|587|thewines7@cebridge.net|calendars
 smtp.suddenlink.net|587|kcaudill@suddenlink.net|Ribbit51
 smtp.terra.com.br|587|ecfmorais@terra.com.br|1565vida
 smtp.cogeco.ca|587|janeoldfield@cogeco.ca|Redstone1
+smtp.cebridge.net|587|valt58@cebridge.net|ernie
