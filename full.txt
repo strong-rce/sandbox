@@ -220,3 +220,4 @@ smtp.telefonica.net|25|l.sanmiguel@telefonica.net|1649Luis
 smtp.email.cz|587|stolicka.libor@email.cz|karate8
 smtp.digis.net|587|pambrandt@digis.net|Sethseth121123
 smtp.email.cz|587|mc.doom@email.cz|motorola1992
+helmelectricinc.com|587|dmartinson@helmelectricinc.com|Star0421+
