@@ -202,3 +202,4 @@ smtp.skinsecretsmedspa.com|587|greta@skinsecretsmedspa.com|Winter09
 smtp.cebridge.net|587|kev29@cebridge.net|100576
 smtp.cebridge.net|587|terrebraun@cebridge.net|katy7197
 smtp.suddenlink.net|587|arclight@suddenlink.net|T1ger0111
+mail.t-email.hu|25|palmoni@t-email.hu|Pudli!70
