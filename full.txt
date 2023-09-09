@@ -311,3 +311,4 @@ smtp.terra.com.br|587|ines.depaula@terra.com.br|utopia
 smtp.cebridge.net|587|milwaukee@cebridge.net|Boomer11
 mail.t-online.hu|25|simon55@t-online.hu|Genius0
 smtp.terra.com.br|587|decopaula@terra.com.br|g5y4j6d5
+pakpackages.com|587|bilal@pakpackages.com|2Pakp@)(*
