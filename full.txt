@@ -439,3 +439,4 @@ smtp.jgplacas.com|587|pedidos@jgplacas.com|*191026*
 smtp.istitutocopernico.edu.it|587|salvo.chiofalo@istitutocopernico.edu.it|10456377
 smtp.manquehue.net|25|josesanguineti@manquehue.net|sangui
 groenhove.com|587|hotel@groenhove.com|juva,123
+smtp.suddenlink.net|587|mikeallen5@suddenlink.net|Ma2040ma$
