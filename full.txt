@@ -263,3 +263,4 @@ smtp.cebridge.net|587|steve.dalton@cebridge.net|frodo00
 smtp.cebridge.net|587|mlsomoss@cebridge.net|ms5263
 smtp.cebridge.net|587|kimegoss@cebridge.net|laregoss
 smtp.suddenlink.net|587|reedman007@suddenlink.net|belpre1
+smtp.terra.com.br|587|vinicius.krau@terra.com.br|vinicius
