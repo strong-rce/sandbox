@@ -315,3 +315,4 @@ pakpackages.com|587|bilal@pakpackages.com|2Pakp@)(*
 smtp.lantic.net|587|wolram@lantic.net|marlow866!!!
 mail.vip.hr|587|matador_7@vip.hr|2405stik
 smtp.terra.com.br|587|ramjorge@terra.com.br|jmar1601
+smtp.herrerapropiedades.cl|587|administrador@herrerapropiedades.cl|Rubenhn7070
