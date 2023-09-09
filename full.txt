@@ -55,3 +55,4 @@ smtp.lantic.net|587|wolram@lantic.net|marlow866232!#123
 smtp.lantic.net|587|wolram@lantic.net|marlow8661212311!
 mail.t-online.hu|25|gy.viktor@t-online.hu|romeo1984
 mail.t-online.hu|25|mgergely@t-online.hu|Diorbobo
+mail.t-online.hu|25|balogh.virag@t-online.hu|01Anyuci
