@@ -437,3 +437,4 @@ smtp.lantic.net|587|wolram@lantic.net|marlow86613+
 smtp.terra.com.br|587|jeremiassemcao@terra.com.br|R2n7c8u8.
 smtp.jgplacas.com|587|pedidos@jgplacas.com|*191026*
 smtp.istitutocopernico.edu.it|587|salvo.chiofalo@istitutocopernico.edu.it|10456377
+smtp.manquehue.net|25|josesanguineti@manquehue.net|sangui
