@@ -233,3 +233,4 @@ smtp.mi.cl|25|gmofcosina@mi.cl|261079
 west-ga.com|587|mwyatt@west-ga.com|Mallory4
 bigventures.us|587|waqas@bigventures.us|12345679
 mail.t-online.hu|25|maggi07@t-online.hu|maggi1234
+smtp.tiscali.co.uk|587|santa.claus3@tiscali.co.uk|snowman
