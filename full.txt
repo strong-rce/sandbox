@@ -444,3 +444,4 @@ smtp.cebridge.net|587|karenoltman@cebridge.net|9363505Ka#
 outlook.com|587|shyamantak2001@outlook.com|Candyismine69
 multisoft-pmp.com|587|gtm147@multisoft-pmp.com|Online@1234
 smtp.cebridge.net|587|dmorris@cebridge.net|cdpdwm#1
+smtp.ilbellodellosport.it|587|redazione@ilbellodellosport.it|bellosport.it
