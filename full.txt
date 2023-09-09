@@ -481,3 +481,4 @@ smtp.rambler.ru|587|faldaa@rambler.ru|Crfdaa2023
 mail.hot.ee|587|marina167@hot.ee|B62c45e0
 smtp.gltsoggiornoandgreen.it|587|booking@gltsoggiornoandgreen.it|QRZzMSHjg=$5mMwf
 grupoarcacv.com.br|587|felipe@grupoarcacv.com.br|2corintios
+smtp.seznam.cz|587|ladikpo11223344@seznam.cz|lada.popov
