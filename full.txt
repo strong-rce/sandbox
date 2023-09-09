@@ -500,3 +500,4 @@ smtp.terra.com.br|587|rcrom2@terra.com.br|1336Ronquim
 arcohotels.in|587|reservation@arcohotels.in|Arcohotel#786
 sokol.mn|587|bekhtsetseg@sokol.mn|Bekhee123
 javarec.com.sa|587|info@javarec.com.sa|FAjr@055643291
+smtp.suddenlink.net|587|plainjane13@suddenlink.net|Valentine13
