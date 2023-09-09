@@ -280,3 +280,4 @@ smtp.talktalk.net|587|gharrison84@talktalk.net|Potter-847
 mx.freenet.de|587|dennis.britz@freenet.de|Salatsau931
 smtp.terra.com.br|587|denilsonoliveira2006@terra.com.br|151515150120200_
 smtp.online.no|587|b-nordv2@online.no|smoi445
+smtp.lantic.net|587|wolram@lantic.net|marlow866!
