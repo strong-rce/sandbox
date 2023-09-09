@@ -77,3 +77,4 @@ smtp.hotkey.net.au|587|buloke@hotkey.net.au|plozza56
 smtp.telstra.com|587|steph.ward@telstra.com|webb1965
 mail.t-online.hu|25|horvath6809@t-online.hu|Istvan6809
 mail.t-email.hu|25|paprea@t-email.hu|Cicman15
+mail.t-online.hu|25|czermann@t-online.hu|Harla6321
