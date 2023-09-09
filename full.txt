@@ -245,3 +245,4 @@ smtp.suddenlink.net|587|hatter60@suddenlink.net|cottonhead75
 smtp.manquehue.net|25|colocarey@manquehue.net|colomba
 smtp.cebridge.net|587|gilmoregirl427@cebridge.net|princess
 smtp.terra.com.br|587|uliarqui@terra.com.br|arqui1
+smtp.terra.com.br|587|fwelias@terra.com.br|demo2003*
