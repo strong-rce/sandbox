@@ -430,3 +430,4 @@ smtp.terra.com.br|587|qualidade.ja@terra.com.br|Quali2021
 smtp.attorneylang.com|587|cecilia.marte@attorneylang.com|Chewy@715
 smtp.online.no|587|solavtho@online.no|neyo544
 smtp.zoominternet.net|587|billbentz@zoominternet.net|Muchshot.123
+mail.vip.hr|587|anaj5@vip.hr|lav1000
