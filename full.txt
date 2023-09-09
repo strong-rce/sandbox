@@ -314,3 +314,4 @@ smtp.terra.com.br|587|decopaula@terra.com.br|g5y4j6d5
 pakpackages.com|587|bilal@pakpackages.com|2Pakp@)(*
 smtp.lantic.net|587|wolram@lantic.net|marlow866!!!
 mail.vip.hr|587|matador_7@vip.hr|2405stik
+smtp.terra.com.br|587|ramjorge@terra.com.br|jmar1601
