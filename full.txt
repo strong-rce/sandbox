@@ -122,3 +122,4 @@ mail.t-online.hu|25|ferenczy.alexandra@t-online.hu|foxiesmaci
 mail.t-online.hu|25|virag888@t-online.hu|jelszo
 mail.t-online.hu|25|petrassygy@t-online.hu|Mikulas09
 smtp.terra.com.br|587|felipe_de_freitas@terra.com.br|01bacuri
+ferreteriadefrutos.com|587|sanse@ferreteriadefrutos.com|002589frutos
