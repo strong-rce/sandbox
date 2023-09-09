@@ -235,3 +235,4 @@ bigventures.us|587|waqas@bigventures.us|12345679
 mail.t-online.hu|25|maggi07@t-online.hu|maggi1234
 smtp.tiscali.co.uk|587|santa.claus3@tiscali.co.uk|snowman
 smtp.absamail.co.za|587|ptheron@absamail.co.za|wendy
+smtp.cebridge.net|587|jkieke@cebridge.net|291522jK
