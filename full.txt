@@ -300,3 +300,4 @@ mail.t-online.hu|25|kosino@t-online.hu|jaguar
 smtp.terra.com.br|587|kakoba@terra.com.br|may92raf1777
 smtp.terra.com.br|587|lopesdigo@terra.com.br|15071979555
 smtp.suddenlink.net|587|bowlingcm@suddenlink.net|Chocolate5185
+multisoft-pmp.com|587|gtm63@multisoft-pmp.com|Online@1234
