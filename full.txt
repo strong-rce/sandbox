@@ -93,3 +93,4 @@ smtp.rambler.ru|587|tanzjaankhina@rambler.ru|08yy543
 mail.t-online.hu|25|timarl@t-online.hu|aA123456
 smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w6112150
 smtp.cebridge.net|587|andrew@cebridge.net|sargent
+smtp.cebridge.net|587|jrysanek@cebridge.net|64john96
