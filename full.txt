@@ -1,1 +1,3 @@
 
+
+smtp.manquehue.net|25|gustavor@manquehue.net|2000
