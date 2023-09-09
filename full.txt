@@ -297,3 +297,4 @@ smtp.cebridge.net|587|klear@cebridge.net|kurt39
 smtp.online.no|587|joh-pand@online.no|Kristin1
 mail.t-online.hu|25|toth-gabriella@t-online.hu|napsi
 mail.t-online.hu|25|kosino@t-online.hu|jaguar
+smtp.terra.com.br|587|kakoba@terra.com.br|may92raf1777
