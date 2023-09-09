@@ -344,3 +344,4 @@ mail.t-online.hu|25|janoczkif@t-online.hu|Fanni1
 smtp.singnet.com.sg|587|famseah@singnet.com.sg|Seah7592
 techsprinters.com|587|suman@techsprinters.com|aTuBExvwpGCcPHXKjpzN
 smtp.suddenlink.net|587|mikecornelius@suddenlink.net|W2i2n@1776
+mail.t-email.hu|25|sosix@t-email.hu|Sosisosi75
