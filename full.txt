@@ -383,3 +383,4 @@ smtp.online.no|587|h-hovde2@online.no|ingjerd64
 trualliant.com|587|j.gallo@trualliant.com|trualliant123
 mail.t-online.hu|25|angy1@t-online.hu|Odu1025
 smtp.terra.com.br|587|ricarte02@terra.com.br|futebol
+smtp.luukku.com|587|timo.mustalahti@luukku.com|Akseli03
