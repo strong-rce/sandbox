@@ -83,3 +83,4 @@ smtp.pblfinancehk.com|587|info@pblfinancehk.com|info
 smtp.orange.sn|587|ndiagadiop@orange.sn|ousseynou
 smtp.cebridge.net|587|royrackers@cebridge.net|joecool
 smtp.terra.com.br|587|davegislaine@terra.com.br|gislaine66
+smtp.terra.com.br|587|wevertonssilva@terra.com.br|371985Wev#
