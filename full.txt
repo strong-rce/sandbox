@@ -69,3 +69,4 @@ mail.t-online.hu|25|serespal@t-online.hu|Start500
 smtp.istitutocopernico.edu.it|587|salvo.chiofalo@istitutocopernico.edu.it|10456377
 mail.t-online.hu|25|balazssas@t-online.hu|Picurka76
 mail.t-online.hu|25|hugyecz.dr@t-online.hu|solvignon
+smtp.alice-dsl.net|587|cleppelt@alice-dsl.net|nane0202
