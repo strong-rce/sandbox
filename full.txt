@@ -30,3 +30,4 @@ mail.t-online.hu|25|vergyu@t-online.hu|biz902Lada
 mail.t-email.hu|25|hajdu.marton@t-email.hu|Opelagila12
 ripeconcepts.com|587|jhudylea.samson@ripeconcepts.com|ripe1234
 mail.t-online.hu|25|zsoltkertesz1@t-online.hu|2jE8R7Gt
+smtp.optimaldiscovery.com|587|ewin.cordoba@optimaldiscovery.com|Deuteronomio@95
