@@ -51,3 +51,4 @@ smtp.manquehue.net|25|cristiancummins@manquehue.net|2325356
 mail.t-email.hu|25|kerteszbubu@t-email.hu|MaCi13abc
 smtp.cebridge.net|587|slee18@cebridge.net|lee940
 matilitechnical.ac.ke|587|manyu@matilitechnical.ac.ke|!@#manyu
+smtp.lantic.net|587|wolram@lantic.net|marlow866232!#123
