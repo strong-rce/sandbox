@@ -457,3 +457,4 @@ smtp.ntlworld.com|587|alex.meehan1@ntlworld.com|Meehan71
 smtp.goshsolutions.com|587|marcos.rivera@goshsolutions.com|Mr2020@2020
 villageptnc.com|587|contact@villageptnc.com|Core0727!
 edgebasegroup.com|587|anthonia.okogwu@edgebasegroup.com|Anthonia@1234
+ehomebasics.co.uk|587|saman@ehomebasics.co.uk|R.saman77
