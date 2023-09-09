@@ -366,3 +366,4 @@ smtp.suddenlink.net|587|gzrglide@suddenlink.net|1999Flhtcui
 duo.com.uy|587|musicadelatierra@duo.com.uy|Musi-f56hj
 maxmigold.com.ng|587|talents@maxmigold.com.ng|AERudenis2
 smtp.avengersdispatchservices.com|587|sales@avengersdispatchservices.com|Sales@ads123
+smtp.lantic.net|587|debtresolve.legal@lantic.net|kalvaro123kalvaro12352
