@@ -271,3 +271,4 @@ smtp.cebridge.net|587|higgies@cebridge.net|1Eattacos!
 smtp.cebridge.net|587|donnabailey@cebridge.net|dbailey1108
 smtp.alice-dsl.net|587|hase65@alice-dsl.net|hase27
 smtp.cebridge.net|587|bored@cebridge.net|audiomobile
+tecs.de|587|mneumann@tecs.de|hanshermann
