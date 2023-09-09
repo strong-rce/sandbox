@@ -22,3 +22,4 @@ smtp.manquehue.net|25|cmaritanof@manquehue.net|Claudia1
 smtp.absamail.co.za|587|irals@absamail.co.za|Dominiq#Dominiq!a
 mail.t-online.hu|25|endrodiv@t-online.hu|Va5pz3da
 smtp.lantic.net|587|wolram@lantic.net|marlow86612!+2!
+smtp.pairroxz.com|587|tushar.sharma@pairroxz.com|Queenqueen1
