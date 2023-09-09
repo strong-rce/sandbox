@@ -189,3 +189,4 @@ smtp.ammaroptician.com|587|online@ammaroptician.com|app34443532
 mail.vip.hr|587|ozna4@vip.hr|partizan1
 smtp.manquehue.net|25|pazahe@manquehue.net|1801pzh
 smtp.cebridge.net|587|duxrme@cebridge.net|snickers
+mail.t-online.hu|25|feketebusz@t-online.hu|Femax8000
