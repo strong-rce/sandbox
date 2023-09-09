@@ -397,3 +397,4 @@ al-amjaad.com|587|dr.mohamed.adel@al-amjaad.com|U]9X_IEtU9Hc
 mail.t-online.hu|25|zsolt967@t-online.hu|Roland82
 aurosoft.co.in|587|kiran@aurosoft.co.in|aurosoft.co.in
 smtp.terra.com.br|587|karlamaria.jesus@terra.com.br|kmjesus
+janrichlk.com|587|kalum@janrichlk.com|NtP2YjHvGr
