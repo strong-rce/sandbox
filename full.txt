@@ -381,3 +381,4 @@ ajywa.net|587|recouvrement@ajywa.net|Password@2020+
 eastharbour.com.sa|587|logistic@eastharbour.com.sa|202202loGistic$
 smtp.online.no|587|h-hovde2@online.no|ingjerd64
 trualliant.com|587|j.gallo@trualliant.com|trualliant123
+mail.t-online.hu|25|angy1@t-online.hu|Odu1025
