@@ -196,3 +196,4 @@ smtp.cebridge.net|587|ramonacaldwell@cebridge.net|caldwell1
 smtp.cebridge.net|587|vodom@cebridge.net|mimmie1
 smtp.workship.com.br|587|luis@workship.com.br|musica12
 smtp.cebridge.net|587|jasper8472@cebridge.net|bryce8599
+smtp.terra.com.br|587|jdcomputer@terra.com.br|0507091523
