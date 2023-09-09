@@ -1,5 +1,3 @@
-
-
 smtp.manquehue.net|25|gustavor@manquehue.net|2000
 smtp.suddenlink.net|587|charleswv@suddenlink.net|1974z281
 smtp.cebridge.net|587|kshelton@cebridge.net|Ran$Bon12!
