@@ -63,3 +63,4 @@ smtp.lantic.net|587|wolram@lantic.net|marlow866!!!
 mail.t-online.hu|25|stefi1em@t-online.hu|Vmpday12
 corsetargentina.com.ar|587|contacto@corsetargentina.com.ar|09Pamela09
 mail.vip.hr|587|anthony2710@vip.hr|miledi27
+kristinshepherd.ca|587|kristin@kristinshepherd.ca|patrickhall1!
