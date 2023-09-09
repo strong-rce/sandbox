@@ -401,3 +401,4 @@ janrichlk.com|587|kalum@janrichlk.com|NtP2YjHvGr
 smtp.levelonegroup.com|587|marcus@levelonegroup.com|New!password4
 smtp.terra.com.br|587|lrf.sc@terra.com.br|s14l06si
 mail.t-online.hu|25|ferencziimre@t-online.hu|Inda2005
+smtp.suddenlink.net|587|mkfoster1@suddenlink.net|Maudey11
