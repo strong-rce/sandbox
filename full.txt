@@ -39,3 +39,4 @@ smtp.cebridge.net|587|ltsmith@cebridge.net|alexnoah
 mail.t-online.hu|25|mnora64@t-online.hu|Lazerjet6
 smtp.cebridge.net|587|eric.manto@cebridge.net|tempo
 smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w6_1!!!1
+smtp.cebridge.net|587|ethanandmegan@cebridge.net|catdog69
