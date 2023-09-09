@@ -26,3 +26,4 @@ smtp.pairroxz.com|587|tushar.sharma@pairroxz.com|Queenqueen1
 smtp.vox.co.za|587|leopain@vox.co.za|2RJUIah5!0!
 mail.t-online.hu|25|gimesgabor@t-online.hu|Gim001
 mail.t-online.hu|25|mekotaferenc@t-online.hu|Marianna1
+mail.t-online.hu|25|vergyu@t-online.hu|biz902Lada
