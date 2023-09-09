@@ -353,3 +353,4 @@ smtp.lantic.net|587|wolram@lantic.net|marlow866!!1
 smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w6
 smtp.suddenlink.net|587|cymaherman@suddenlink.net|112798Hazael
 mail.t-online.hu|25|brilianskerbt@t-online.hu|Thetan2
+mail.t-email.hu|25|norbert.takacs@t-email.hu|szamocA04
