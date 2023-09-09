@@ -88,3 +88,4 @@ smtp.cebridge.net|587|etherton@cebridge.net|tj5861
 smtp.manquehue.net|25|lcepeda@manquehue.net|maca2208
 smtp.cebridge.net|587|funnybliss@cebridge.net|master13
 mail.t-online.hu|25|somogyineeva@t-online.hu|Donisz13
+mail.t-online.hu|25|moto64@t-online.hu|196400
