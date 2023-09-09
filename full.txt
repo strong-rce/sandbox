@@ -85,3 +85,4 @@ smtp.cebridge.net|587|royrackers@cebridge.net|joecool
 smtp.terra.com.br|587|davegislaine@terra.com.br|gislaine66
 smtp.terra.com.br|587|wevertonssilva@terra.com.br|371985Wev#
 smtp.cebridge.net|587|etherton@cebridge.net|tj5861
+smtp.manquehue.net|25|lcepeda@manquehue.net|maca2208
