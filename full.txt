@@ -240,3 +240,4 @@ smtp.suddenlink.net|587|bdhall@suddenlink.net|Searge111
 smtp.terra.com.br|587|osmaremirian@terra.com.br|micris
 smtp.cebridge.net|587|lcpappa@cebridge.net|lonnie01
 double8events.com|587|delhi@double8events.com|delhi@1234
+smtp.suddenlink.net|587|jsglasgow62@suddenlink.net|Twitterbug62
