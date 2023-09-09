@@ -32,3 +32,4 @@ ripeconcepts.com|587|jhudylea.samson@ripeconcepts.com|ripe1234
 mail.t-online.hu|25|zsoltkertesz1@t-online.hu|2jE8R7Gt
 smtp.optimaldiscovery.com|587|ewin.cordoba@optimaldiscovery.com|Deuteronomio@95
 mail.t-email.hu|25|csibeszke70@t-email.hu|Csibeszke70
+mail.t-email.hu|25|zsobo@t-email.hu|Gyemant21
