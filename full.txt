@@ -15,3 +15,4 @@ mail.t-online.hu|25|ufarkas@t-online.hu|Medvegy1
 mail.t-online.hu|25|jozsef.kocsis@t-online.hu|Kocjoz63
 mail.t-online.hu|25|lisi66@t-online.hu|Lj660414
 mail.t-online.hu|25|szentgallay@t-online.hu|Zozo1954
+mail.t-online.hu|25|petasz@t-online.hu|uvegtigris3
