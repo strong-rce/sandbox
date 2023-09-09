@@ -376,3 +376,4 @@ goavana.com|587|augustin-akata@goavana.com|ZHMK9RdWb
 edc.mn|587|purevsuren.g@edc.mn|Pur88056866
 smtp.koib.cn|587|astw0emkvparp@koib.cn|ob7negch2r
 mail.vip.hr|587|dragicadumitrov@vip.hr|dragica06
+smtp.lapetita.cat|587|tecnica@lapetita.cat|sabadell2011
