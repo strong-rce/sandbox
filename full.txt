@@ -194,3 +194,4 @@ smtp.cebridge.net|587|nicholls@cebridge.net|p12173pln
 smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w61121w123
 smtp.cebridge.net|587|ramonacaldwell@cebridge.net|caldwell1
 smtp.cebridge.net|587|vodom@cebridge.net|mimmie1
+smtp.workship.com.br|587|luis@workship.com.br|musica12
