@@ -422,3 +422,4 @@ mail.t-online.hu|25|gyorkez@t-online.hu|Maciteam5
 rappidtelecom.com.br|587|mauricio.rodrigues@rappidtelecom.com.br|rappid@2019
 mail.t-online.hu|25|bakacsf@t-online.hu|R9akB789
 smtp.suddenlink.net|587|dlfcole@suddenlink.net|Makenzie@1
+mail.t-online.hu|25|bazsi2007@t-online.hu|megyesi4
