@@ -322,3 +322,4 @@ smtp.lantic.net|587|hazyviewpanelbeaters@lantic.net|hzgsF6w6_11!!0
 mail.t-online.hu|25|madasj@t-online.hu|Madas5101j
 lrcnet.net|587|pipnmip@lrcnet.net|angel123
 smtp.terra.com.br|587|clesilhallemy@terra.com.br|piupiu10
+smtp.absamail.co.za|587|irals@absamail.co.za|Dominiq#Dominiq!a@
