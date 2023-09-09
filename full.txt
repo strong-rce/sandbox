@@ -477,3 +477,4 @@ hygienecareservices.com.au|587|sales@hygienecareservices.com.au|NbQTbMGPGjXn
 smtp.mail.de|587|afterlife1978@mail.de|Superfly_78
 ad1gate.com|587|anugrah.022162@ad1gate.com|Motor#586
 mail.cidb.gov.my|587|azam@cidb.gov.my|bet1977
+smtp.rambler.ru|587|faldaa@rambler.ru|Crfdaa2023
