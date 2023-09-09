@@ -230,3 +230,4 @@ smtp.cebridge.net|587|sbreedlove@cebridge.net|jakedog1
 smtp.cebridge.net|587|voigtlander@cebridge.net|adv89562
 smtp.suddenlink.net|587|cnmwar4391@suddenlink.net|chesterwarren1
 smtp.mi.cl|25|gmofcosina@mi.cl|261079
+west-ga.com|587|mwyatt@west-ga.com|Mallory4
