@@ -96,3 +96,4 @@ smtp.cebridge.net|587|andrew@cebridge.net|sargent
 smtp.cebridge.net|587|jrysanek@cebridge.net|64john96
 smtp.cebridge.net|587|altove@cebridge.net|rycade
 mail.t-online.hu|25|bakine@t-online.hu|kaposzta
+mail.t-email.hu|25|orszagh@t-email.hu|macilaci
