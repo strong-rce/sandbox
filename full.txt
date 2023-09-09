@@ -161,3 +161,4 @@ smtp.cebridge.net|587|sandravisser@cebridge.net|sandra1017
 smtp.cebridge.net|587|pageti@cebridge.net|bluecat2
 mail.t-online.hu|25|speierbence@t-online.hu|Bence99
 smtp.cebridge.net|587|johndena92@cebridge.net|prissy
+smtp.cebridge.net|587|mcallio@cebridge.net|mc5759
