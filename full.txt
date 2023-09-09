@@ -218,3 +218,4 @@ smtp.the-beach.net|587|arminda@the-beach.net|arminda9811231234562
 smtp.cebridge.net|587|bluevelvet@cebridge.net|shady375
 smtp.telefonica.net|25|l.sanmiguel@telefonica.net|1649Luis
 smtp.email.cz|587|stolicka.libor@email.cz|karate8
+smtp.digis.net|587|pambrandt@digis.net|Sethseth121123
