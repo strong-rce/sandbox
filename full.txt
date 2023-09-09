@@ -170,3 +170,4 @@ smtp.cebridge.net|587|kbg@cebridge.net|molly77
 smtp.cebridge.net|587|deblymel@cebridge.net|jakkcctga9
 smtp.cebridge.net|587|meandmyshadow@cebridge.net|1971
 smtp.manquehue.net|25|fbesa@manquehue.net|fabu1955
+smtp.cebridge.net|587|connie.fink@cebridge.net|clf8533
