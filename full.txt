@@ -407,3 +407,4 @@ smtp.nixgle.com|587|contact@nixgle.com|MYgCaW3P_Z2ZS
 mail.vip.hr|587|zagi.rudar@vip.hr|Mifita2016
 smtp.terra.com.br|587|cursomaltez@terra.com.br|spmaltez1909
 smtp.terra.com.br|587|wevertonssilva@terra.com.br|371985Wev#
+smtp.terra.com.br|587|carlos_golfieri@terra.com.br|kazuza1968
