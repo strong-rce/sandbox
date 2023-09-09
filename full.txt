@@ -98,3 +98,4 @@ smtp.cebridge.net|587|altove@cebridge.net|rycade
 mail.t-online.hu|25|bakine@t-online.hu|kaposzta
 mail.t-email.hu|25|orszagh@t-email.hu|macilaci
 smtp.manquehue.net|25|sileba@manquehue.net|sillaroja
+gvm-av.com|587|johari.jumari@gvm-av.com|58ywyl6Ldi!L
