@@ -133,3 +133,4 @@ smtp.cebridge.net|587|rachelm@cebridge.net|2234rm
 mail.ecu.edu.eg|587|292000402@ecu.edu.eg|Nmhu228729
 mail.t-online.hu|25|bodosibela@t-online.hu|3repXchW
 kayanelarab.com.eg|587|info@kayanelarab.com.eg|oSkerPFw7i1x
+brsv.com.br|587|lrodrigues@brsv.com.br|Icatu@123
