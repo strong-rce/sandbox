@@ -424,3 +424,4 @@ mail.t-online.hu|25|bakacsf@t-online.hu|R9akB789
 smtp.suddenlink.net|587|dlfcole@suddenlink.net|Makenzie@1
 mail.t-online.hu|25|bazsi2007@t-online.hu|megyesi4
 smtp.nsuniv.ac.in|587|placement@nsuniv.ac.in|Welcome@1234#
+mail.t-online.hu|25|sjabo@t-online.hu|3M9ppxEt
