@@ -435,3 +435,4 @@ mail.hot.ee|587|mies6@hot.ee|A1sidrun
 smtp.terra.com.br|587|irmaines.oliveira@terra.com.br|b2q5v2
 smtp.lantic.net|587|wolram@lantic.net|marlow86613+
 smtp.terra.com.br|587|jeremiassemcao@terra.com.br|R2n7c8u8.
+smtp.jgplacas.com|587|pedidos@jgplacas.com|*191026*
