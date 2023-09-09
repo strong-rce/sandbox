@@ -181,3 +181,4 @@ smtp.cebridge.net|587|syawca@cebridge.net|loissss
 smtp.cebridge.net|587|acharmer2@cebridge.net|chris1
 smtp.suddenlink.net|587|ethanm99@suddenlink.net|ethan1
 smtp.suddenlink.net|587|addison@suddenlink.net|Addison1
+smtp.cebridge.net|587|montieyoung@cebridge.net|cynthia
