@@ -126,3 +126,4 @@ ferreteriadefrutos.com|587|sanse@ferreteriadefrutos.com|002589frutos
 smtp.cebridge.net|587|cjobst@cebridge.net|aug799
 conselmexico.com|587|anaquid@conselmexico.com|Libano76$
 cjyuc.gob.mx|587|angel.poot@cjyuc.gob.mx|Abcd1234*.
+wewantjustice.today|587|jawad@wewantjustice.today|Justice1996$$##
