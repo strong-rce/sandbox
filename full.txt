@@ -105,3 +105,4 @@ mail.t-online.hu|25|karolylala@t-online.hu|Lala654321
 smtp.unicampania.it|587|mariarosaria.perrella@unicampania.it|Lavieenrose85l
 smtp.rambler.ru|587|ijfnesex@rambler.ru|18ab78o07
 safetyinternational.net|587|contacto@safetyinternational.net|L,.MHOsw9QrU
+mail.t-online.hu|25|etikettbt@t-online.hu|Petikett5
