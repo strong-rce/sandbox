@@ -409,3 +409,4 @@ smtp.terra.com.br|587|cursomaltez@terra.com.br|spmaltez1909
 smtp.terra.com.br|587|wevertonssilva@terra.com.br|371985Wev#
 smtp.terra.com.br|587|carlos_golfieri@terra.com.br|kazuza1968
 bankofsanjose.ph|587|it.rbsj@bankofsanjose.ph|faCo088K@s
+mail.t-online.hu|25|gargyan01@t-online.hu|horgos
