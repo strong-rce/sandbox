@@ -168,3 +168,4 @@ smtp.suddenlink.net|587|woodn@suddenlink.net|Password1
 smtp.suddenlink.net|587|mimi-papa@suddenlink.net|Bobbyjoe40
 smtp.cebridge.net|587|kbg@cebridge.net|molly77
 smtp.cebridge.net|587|deblymel@cebridge.net|jakkcctga9
+smtp.cebridge.net|587|meandmyshadow@cebridge.net|1971
