@@ -277,3 +277,4 @@ smtp.cebridge.net|587|charlotteeagle@cebridge.net|nd6r239z
 smtp.cebridge.net|587|jnlns@cebridge.net|leigh
 smtp.terra.com.br|587|beth.spcr@terra.com.br|elisabeth
 smtp.talktalk.net|587|gharrison84@talktalk.net|Potter-847
+mx.freenet.de|587|dennis.britz@freenet.de|Salatsau931
