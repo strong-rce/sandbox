@@ -339,3 +339,4 @@ smtp.blomand.net|587|jly740@blomand.net|Maelybeth1
 smtp.studiomondi.com|587|antonella.colombo@studiomondi.com|Antonella123
 smtp.poczta.onet.pl|587|darifrys1@poczta.onet.pl|Bruno2001!
 smtp.terra.com.br|587|taty.benetti@terra.com.br|rlo010678
+smtp.terra.com.br|587|nilson.porcinio@terra.com.br|nil372636
