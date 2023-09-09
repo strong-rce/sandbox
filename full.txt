@@ -329,3 +329,4 @@ ripeconcepts.com|587|mark.padal@ripeconcepts.com|ripe1234
 smtp.suddenlink.net|587|tkluginbill@suddenlink.net|Gocats#43
 smtp.suddenlink.net|587|carol.evans@suddenlink.net|Ramapo69
 smtp.absamail.co.za|587|mvs.acc@absamail.co.za|mvsacc
+evelynojeda.com|587|evelyn@evelynojeda.com|namastenamaste123
