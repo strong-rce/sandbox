@@ -252,3 +252,4 @@ smtp.manquehue.net|25|jorge_miranda@manquehue.net|oxford2615
 ripeconcepts.com|587|may.sarno@ripeconcepts.com|ripe1234
 maff.gov.kh|587|casdp@maff.gov.kh|Smart@2018?
 smtp.cebridge.net|587|louisesud@cebridge.net|ellafay2
+smtp.cebridge.net|587|yorgen@cebridge.net|maya123
