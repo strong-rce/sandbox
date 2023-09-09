@@ -386,3 +386,4 @@ smtp.terra.com.br|587|ricarte02@terra.com.br|futebol
 smtp.luukku.com|587|timo.mustalahti@luukku.com|Akseli03
 ghanimex.com|587|scarlett.thompson@ghanimex.com|Password@719
 cavdiseno.mx|587|susana.rojas@cavdiseno.mx|y4dlBYJ(#Rfr
+smtp.terra.com.br|587|takashi@terra.com.br|yendis
