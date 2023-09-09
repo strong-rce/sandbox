@@ -266,3 +266,4 @@ smtp.suddenlink.net|587|reedman007@suddenlink.net|belpre1
 smtp.terra.com.br|587|vinicius.krau@terra.com.br|vinicius
 smtp.talktalk.net|587|pjhale01@talktalk.net|cam46ie3
 19hnos.com|587|gte.leon@19hnos.com|Gteleon1
+smtp.cebridge.net|587|hughesba.g@cebridge.net|grand
