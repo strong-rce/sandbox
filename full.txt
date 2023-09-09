@@ -412,3 +412,4 @@ bankofsanjose.ph|587|it.rbsj@bankofsanjose.ph|faCo088K@s
 mail.t-online.hu|25|gargyan01@t-online.hu|horgos
 smtp.manquehue.net|25|rarriagada@manquehue.net|larry4149
 mail.t-online.hu|25|flne1934@t-online.hu|Mazsola1
+smtp.terra.com.br|587|vleal@terra.com.br|fmsilva
