@@ -177,3 +177,4 @@ smtp.suddenlink.net|587|lmverrett@suddenlink.net|Dave4040
 smtp.cebridge.net|587|ttlynch1@cebridge.net|1wwolbwz
 smtp.suddenlink.net|587|bwcp2@suddenlink.net|maerz001
 smtp.cebridge.net|587|sjenkins@cebridge.net|msu97jj
+smtp.cebridge.net|587|syawca@cebridge.net|loissss
