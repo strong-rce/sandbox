@@ -497,3 +497,4 @@ ilandas.lt|587|vadyba1@ilandas.lt|odblaks934hbz
 smtp.zoominternet.net|587|critchlow@zoominternet.net|Nevin9038*
 smtp.terra.com.br|587|vicunha@terra.com.br|vicunha2020
 smtp.terra.com.br|587|rcrom2@terra.com.br|1336Ronquim
+arcohotels.in|587|reservation@arcohotels.in|Arcohotel#786
