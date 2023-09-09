@@ -206,3 +206,4 @@ mail.t-email.hu|25|palmoni@t-email.hu|Pudli!70
 icdtraining.com|587|chiduwac@icdtraining.com|Melody@195
 mail.vip.hr|587|cudni@vip.hr|Kikimarina0609
 smtp.naver.com|587|toggi87@naver.com|ehdgurdl7&
+smtp.suddenlink.net|587|curlywelch@suddenlink.net|2feathers
