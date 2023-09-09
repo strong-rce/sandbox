@@ -129,3 +129,4 @@ cjyuc.gob.mx|587|angel.poot@cjyuc.gob.mx|Abcd1234*.
 wewantjustice.today|587|jawad@wewantjustice.today|Justice1996$$##
 smtp.cebridge.net|587|vpate1812@cebridge.net|1812toby
 mail.t-online.hu|25|akossalamon@t-online.hu|Domi2005
+smtp.cebridge.net|587|rachelm@cebridge.net|2234rm
