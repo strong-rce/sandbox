@@ -3,7 +3,6 @@ smtp.suddenlink.net|587|charleswv@suddenlink.net|1974z281
 smtp.cebridge.net|587|kshelton@cebridge.net|Ran$Bon12!
 smtp.suddenlink.net|587|pneil@suddenlink.net|travis16
 smtp.suddenlink.net|587|cdamron@suddenlink.net|Jayden01
-
 mail.t-online.hu|25|polgar.jozsef@t-online.hu|tarkinca
 mail.t-online.hu|25|tinfo95@t-online.hu|Tinfo95
 mail.nc.rr.com|587|lnowicki1@nc.rr.com|18guavafruit
