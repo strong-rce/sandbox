@@ -1,0 +1,584 @@
+   /* ==========================================================================
+   *Large Screens (1500px and up)*
+   ========================================================================== */
+      @media (min-width: 1500px) {
+        .round-row .row-01 {
+          top: 30px;
+        }
+        .hosting-plans .action {
+          width: 70%;
+        }
+
+        .additional-services .round-row .row-01 {
+          top: 50px;
+        }
+      }
+
+      /* ==========================================================================
+   *Medium Screens (1400px and down)*
+   ========================================================================== */
+      @media (min-width: 1400px) {
+        .hosting-plans .action {
+          width: 70%;
+          margin: auto;
+        }
+        .shared-hosting-spec .left-image {
+          margin-top: 30px;
+        }
+        .shared-hosting-spec .left-image img {
+          width: 85%;
+        }
+
+        .server-tab .container {
+          max-width: 1074px;
+        }
+      }
+
+      /**Only for header**/
+      @media screen and (min-width: 992px) {
+        .header {
+          display: flex;
+          justify-content: flex-end;
+          align-items: flex-start;
+        }
+        .menu-icon {
+          display: none;
+        }
+        .header__list {
+          opacity: 1;
+          position: static;
+          width: auto;
+          height: 30px;
+          padding: 0;
+          display: flex;
+          align-items: center;
+          transform: translateX(0);
+          background-color: transparent;
+        }
+        .header__item {
+          margin: 0;
+          white-space: nowrap;
+        }
+        .header__item:not(.header__item--btn):hover {
+          opacity: 0.8;
+          background-color: unset;
+        }
+        .header__item--btn {
+          width: 100px;
+        }
+        .checkbox:checked + .header + .content {
+          transform: translatex(0);
+        }
+        .top-bar .right ul {
+          flex-direction: row;
+        }
+        .top-bar .right ul li {
+          padding: 0 10px;
+        }
+      }
+
+      /* ==========================================================================
+   *Medium Screens (1400px and down)*
+   ========================================================================== */
+      @media (max-width: 1399.98px) {
+        .plan-tile {
+          padding: 65px 25px 45px 25px;
+        }
+        .affortdable-vps {
+          background-size: contain;
+          padding-top: 60px;
+        }
+      }
+
+      /* ==========================================================================
+   *Medium devices (tablets, 1200px and down)*
+   ========================================================================== */
+      @media (max-width: 1199.98px) {
+        .vh-header {
+          display: block;
+          width: 100%;
+          position: relative;
+          left: 0px;
+          top: 0px;
+          right: 0px;
+          margin: auto;
+          z-index: 5;
+          padding: 20px 0;
+        }
+        .main-menu {
+          display: none;
+        }
+        .mobile-menu {
+          display: block;
+          background: #9160ce;
+        }
+        .mobile-menu a.menu-toggle {
+          display: block;
+          z-index: 1;
+          top: 70px;
+          right: 10px;
+          background: #9160ce;
+        }
+        .mobile-menu ul.menu-list {
+          display: none;
+        }
+        .mobile-menu ul.menu-list li a.login {
+          color: #fff;
+          display: block;
+          width: 100%;
+          font-size: 14px;
+          text-transform: uppercase;
+          padding: 8px 0;
+          background: none;
+          display: inline-block;
+          line-height: normal;
+          position: relative;
+          top: 0px;
+          border-radius: 0px;
+        }
+        .mobile-menu ul li a {
+          padding: 15px 20px;
+        }
+        .mobile-menu ul li a.active {
+          color: #fff;
+        }
+        .header-right {
+          margin-right: 50px;
+        }
+        .mobile-menu ul.menu-list {
+          padding: 10px 0;
+        }
+        .mobile-menu .quick-contact {
+          border-right: none;
+          border-left: none;
+          padding: 10px 0;
+        }
+        .mobile-menu .dropdown.language-select {
+          padding: 10px 0;
+        }
+        .mobile-menu .dropdown.language-select li a {
+          color: #000;
+          text-align: start;
+          padding: 5px;
+        }
+        .mobile-menu .btn-book {
+          padding: 20px 0;
+        }
+        .mobile-menu ul li:last-child {
+          padding: 20px 0;
+        }
+        footer .sm-footer {
+          margin: 0;
+        }
+        footer .sm-footer li {
+          display: inline-block;
+          margin-right: 10px;
+          margin-bottom: 0;
+        }
+        /*Header and menu end*/
+        .banner-contant {
+          max-width: 100%;
+        }
+
+        /* Sub Pages Style */
+
+        .plan-row {
+          flex-direction: column;
+        }
+        .plan-row > div {
+          width: 100%;
+          padding: 30px;
+        }
+        .plan-row .plan-rate {
+          border-radius: 0 0 10px 10px;
+        }
+        .contact-brief.sty-subpage {
+          padding: 170px 0 50px;
+        }
+        .testimonials-container .container::before {
+          left: 0;
+          height: 115px;
+          width: 140px;
+        }
+        .price_rangetxt .icon span::after {
+          display: none;
+        }
+      }
+
+      /* ==========================================================================
+   *Medium devices (tablets, 991px and down)*
+   ========================================================================== */
+      @media (max-width: 991.98px) {
+        footer .container {
+          flex-direction: column;
+        }
+        footer .container .left {
+          width: 100%;
+        }
+        footer .container .right {
+          width: 100%;
+          margin-top: 50px;
+        }
+        footer .footer-logo {
+          margin-bottom: 50px;
+        }
+        .contact-salesteam .text {
+          text-align: center;
+        }
+        .index-banner {
+          text-align: center;
+        }
+        .index-banner {
+          text-align: center;
+        }
+        .benefits {
+          justify-content: center;
+          margin-top: 50px;
+        }
+        .shape-overlay-right {
+          display: none;
+        }
+        .banner-right {
+          text-align: end;
+        }
+        .banner-right img {
+          max-width: 450px;
+        }
+        .banner-priceround {
+          bottom: -135px;
+          left: 4%;
+        }
+
+        /*Main FAQ*/
+        .faq-main .container {
+          flex-direction: column;
+        }
+        .faq-main .faq-left,
+        .faq-main .faq-right {
+          width: 100%;
+        }
+        .faq-main .faq-right {
+          margin: 50px 0 0 0;
+          padding: 0;
+          border: none;
+        }
+        .faq-main .faq-right::after,
+        .faq-main .faq-right::before {
+          display: none;
+        }
+
+        .why-us h1 {
+          font-size: 55px;
+        }
+        .whyus-round > div {
+          padding: 15px 0;
+        }
+        .why-us .round-image {
+          width: 80%;
+          height: auto;
+          position: absolute;
+          opacity: 0.2;
+        }
+        .why-us article {
+          width: 320px;
+          text-align: center !important;
+          position: relative;
+          z-index: 1;
+        }
+        .round-top .whyus-icon {
+          position: inherit;
+          bottom: inherit;
+          left: inherit;
+          transform: none;
+        }
+        .round-left .whyus-icon {
+          position: inherit;
+          right: inherit;
+          top: inherit;
+        }
+        .round-right .whyus-icon {
+          position: inherit;
+          left: inherit;
+          top: inherit;
+        }
+        .round-top,
+        .round-bottom,
+        .round-right,
+        .round-left {
+          padding: 0 25px !important;
+        }
+        .round-bottom .whyus-icon {
+          position: inherit;
+          top: inherit;
+          left: inherit;
+          transform: none;
+        }
+
+        .tab-contant-right {
+          margin-top: 50px;
+        }
+        .tb-vps-type .nav-tabs {
+          position: sticky;
+          top: 0;
+          padding: 10px;
+          background-color: #fff;
+          z-index: 10;
+        }
+        .tb-vps-type .nav-tabs li {
+          width: 50%;
+        }
+        .tb-vps-type .nav-tabs li .nav-link {
+          padding: 10px 25px;
+          text-align: center;
+          border-radius: 5px;
+        }
+        .tb-vps-type .nav-tabs li .nav-link.active {
+          background-color: #9160ce;
+          color: #fff;
+        }
+
+        .plan-spec ul {
+          flex-wrap: wrap;
+        }
+        .plan-spec ul li {
+          width: 50%;
+          padding: 10px 0;
+        }
+        .right-tiles {
+          padding-right: 30px;
+          margin-top: 50px;
+        }
+
+        .subpage-banner .banner-contant {
+          margin: auto;
+        }
+        .aboutvps-brief {
+          text-align: center;
+        }
+        .aboutvps-brief .text {
+          width: 100%;
+          max-width: inherit;
+        }
+        .aboutvps-brief .row {
+          margin-top: 0;
+        }
+        .aboutvps-brief .badge-image img {
+          width: 300px;
+          margin: auto;
+          top: 0;
+        }
+
+        .affortdable-vps .image-right {
+          text-align: center;
+        }
+        .spec-boxs-left > div:nth-child(1) {
+          margin: 0 0 45px 0;
+        }
+        .spec-boxs-left > div:nth-child(2) {
+          margin: 0 0 45px 0;
+        }
+        .spec-boxs-left > div:nth-child(3) {
+          margin: 0 0 45px 0;
+        }
+        .spec-boxs-left > div:nth-child(4) {
+          margin: 0 0 45px 0;
+        }
+        .vps_spec {
+          padding: 50px 30px 30px 30px;
+        }
+        .spec-boxs-left {
+          display: flex;
+          justify-content: center;
+          gap: 30px;
+          flex-wrap: wrap;
+        }
+        .thumnail-right {
+          max-width: 420px;
+          margin: auto;
+          width: 100%;
+        }
+        .thumnail-right::after {
+          left: 50%;
+          top: -33.5px;
+          transform: rotate(90deg);
+        }
+      }
+
+      /* ==========================================================================
+   *Small devices (landscape phones, less than 768px)*
+   ========================================================================== */
+      @media (max-width: 767.98px) {
+        .index-banner h1 {
+          font-size: 42px;
+          line-height: 60px;
+        }
+        .logo > a > img {
+          height: 50px;
+        }
+        .mobile-menu a.menu-toggle {
+          top: 57px;
+        }
+        .menu-icon {
+          top: 73px;
+        }
+        .banner-right img {
+          max-width: 350px;
+        }
+        .banner-priceround {
+          width: 180px;
+          height: 180px;
+          border: solid 10px #fff;
+          padding-top: 37px;
+        }
+        .footer-faq .text {
+          width: 100%;
+          text-align: center;
+          margin-top: 50px;
+        }
+        .footer-faq .faq-wrapper {
+          padding: 0 2%;
+          width: 100%;
+        }
+        .plan-tile a {
+          width: auto;
+        }
+        .package_features {
+          display: flex;
+          justify-content: center;
+        }
+        .subpage-banner .banner-right {
+          text-align: center;
+        }
+        .vps-features {
+          padding-top: 100px;
+        }
+        .why-us .whyus-middle {
+          flex-direction: column;
+        }
+        .why-us .round-image {
+          display: none;
+        }
+        .whyus-round > div {
+          padding: 0;
+        }
+        .why-us article {
+          margin-top: 20px;
+          margin-bottom: 20px;
+        }
+        .features-container {
+          background-size: cover;
+        }
+        .subpage-banner .banner-contant {
+          width: 100%;
+        }
+
+        .price-slider-section {
+          display: none;
+        }
+        .price_rangetxt {
+          margin-bottom: 35px;
+        }
+        .slider_nodes {
+          flex-wrap: wrap;
+          justify-content: center;
+        }
+        .slider_nodes li {
+          width: 30%;
+        }
+        .price_rangetxt div.icon span {
+          padding: 10px 5px;
+          margin: 5px;
+          display: block;
+          border-radius: 3px;
+          background-color: #aaa;
+          color: #fff;
+        }
+        .price_rangetxt div.icon.current span {
+          background-color: #9160ce;
+          color: #fff;
+        }
+        .price_rangetxt #icon-1 span,
+        .price_rangetxt #icon-2 span,
+        .price_rangetxt #icon-3 span,
+        .price_rangetxt #icon-4 span {
+          margin-left: 0;
+        }
+      }
+
+      /* ==========================================================================
+   *Extra small devices (portrait phones, less than 576px)*
+   ========================================================================== */
+      @media (max-width: 575.98px) {
+        h3 {
+          font-size: 28px;
+          line-height: 33px;
+          margin-bottom: 10px;
+        }
+        .subpage-banner.index-banner h1 {
+          font-size: 36px;
+          line-height: 42px;
+          margin-bottom: 15ox;
+        }
+        .top-bar {
+          font-size: 11px;
+        }
+        .top-bar .left ul li span {
+          font-size: 10px;
+        }
+        .plan-spec ul li {
+          width: 100%;
+          padding: 10px 0;
+        }
+        .plan-rate {
+          padding: 18px;
+        }
+        .plan-rate figure {
+          font-size: 30px;
+        }
+        .plan-rate figcaption {
+          font-size: 14px;
+        }
+        .right-tiles {
+          padding-right: 0;
+          padding-left: 20px;
+          margin-top: 50px;
+        }
+        .testimonials-container .container::before {
+          height: 100px;
+          width: 123px;
+          left: 20px;
+        }
+        .vps_spec {
+          padding: 50px 10px 30px 10px;
+        }
+        .spec-box {
+          width: 150px;
+          padding: 48px 10px 20px 10px;
+        }
+        .spec-boxs-left {
+          gap: 5px;
+        }
+        .spec-box h5 {
+          font-size: 18px;
+        }
+        .price_rangetxt div.icon span {
+          font-size: 18px;
+        }
+      }
+
+      /* ==========================================================================
+   *Extra small devices (portrait phones, less than 400px)*
+   ========================================================================== */
+
+      @media (max-width: 370px) {
+        .plan-rate {
+          flex-direction: column;
+          text-align: center;
+        }
+        .plan-rate fieldset {
+          margin-bottom: 10px;
+        }
+        .spec-box {
+          width: 140px;
+        }
+      }
